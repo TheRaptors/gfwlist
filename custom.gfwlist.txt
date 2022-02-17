@@ -19,6 +19,8 @@
 ||oracle.com
 ||php.net
 ||plot.ly
+||pypi.org
+||redhat.com
 ||redis.io
 ||tortoisesvn.net
 ||typora.io
