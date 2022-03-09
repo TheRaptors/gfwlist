@@ -20,6 +20,7 @@
 ||php.net
 ||plot.ly
 ||pypi.org
+||python.org
 ||redhat.com
 ||redis.io
 ||tortoisesvn.net
