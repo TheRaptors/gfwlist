@@ -27,6 +27,7 @@
 ||typora.io
 ||vandyke.com
 ||wikiquote.org
+||wiktionary.org
 ||wireshark.org
 ||yamllint.com
 ||zabbix.com
