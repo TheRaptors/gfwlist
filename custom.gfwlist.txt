@@ -26,6 +26,7 @@
 ||redis.io
 ||tortoisesvn.net
 ||typora.io
+||v2ex.com
 ||vandyke.com
 ||wikiquote.org
 ||wiktionary.org
