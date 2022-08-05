@@ -19,6 +19,7 @@
 ||mozilla.net
 ||nodejs.org
 ||oracle.com
+||ossinsight.io
 ||php.net
 ||plot.ly
 ||pypi.org
