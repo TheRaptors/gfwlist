@@ -10,6 +10,7 @@
 ||github.io
 ||go.dev
 ||greasyfork.org
+||ieee.org
 ||jenkins.io
 ||jetbrains.com
 ||jquery.com
