@@ -1,5 +1,5 @@
-#自定义部分
-translate.googleapis.com
+# 自定义部分
+# translate.googleapis.com
 ||1password.com
 ||amazonaws.com
 ||ansible.com
@@ -10,6 +10,7 @@ translate.googleapis.com
 ||github.com
 ||github.io
 ||go.dev
+||googleapis.com
 ||greasyfork.org
 ||ieee.org
 ||jenkins.io
