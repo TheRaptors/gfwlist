@@ -5,6 +5,7 @@
 ||archive.vn
 ||atomicorp.com
 ||bing.com
+||cloudflare.com
 ||docker.com
 ||github.com
 ||github.io
