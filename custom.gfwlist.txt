@@ -20,6 +20,7 @@
 ||mohu.rocks
 ||mozilla.net
 ||nodejs.org
+||openai.com
 ||oracle.com
 ||ossinsight.io
 ||php.net
