@@ -12,6 +12,7 @@
 ||go.dev
 ||greasyfork.org
 ||ieee.org
+||java.com
 ||jenkins.io
 ||jetbrains.com
 ||jquery.com
