@@ -37,5 +37,6 @@
 ||wikiquote.org
 ||wiktionary.org
 ||wireshark.org
+||yahoo.com
 ||yamllint.com
 ||zabbix.com
