@@ -1,5 +1,6 @@
 # 自定义部分
 ||1password.com
+||51cg10.com
 ||amazonaws.com
 ||ansible.com
 ||archive.vn
