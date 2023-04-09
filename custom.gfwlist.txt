@@ -32,6 +32,7 @@
 ||python.org
 ||redhat.com
 ||redis.io
+||stripe.com
 ||tortoisesvn.net
 ||typora.io
 ||v2ex.com
