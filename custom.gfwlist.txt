@@ -9,6 +9,7 @@
 ||civitai.com
 ||cloudflare.com
 ||docker.com
+||gitbook.com
 ||github.com
 ||github.io
 ||go.dev
