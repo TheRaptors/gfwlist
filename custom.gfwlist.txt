@@ -36,6 +36,8 @@
 ||redhat.com
 ||redis.io
 ||stripe.com
+||tdchat.com
+||terobox.com
 ||tortoisesvn.net
 ||typora.io
 ||v2ex.com
