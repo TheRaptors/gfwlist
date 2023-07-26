@@ -4,6 +4,9 @@
 ||anthropic.com
 ||claude.ai
 
+# Facebook 相关
+||meta.com
+
 ||1password.com
 ||51cg10.com
 ||amazonaws.com
