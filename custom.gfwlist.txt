@@ -11,6 +11,7 @@
 ||51cg10.com
 ||amazonaws.com
 ||ansible.com
+||apache.org
 ||archive.vn
 ||atomicorp.com
 ||bing.com
