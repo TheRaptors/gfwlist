@@ -65,6 +65,7 @@
 ||wikiquote.org
 ||wiktionary.org
 ||wireshark.org
+||x.ai
 ||yahoo.com
 ||yamllint.com
 ||zabbix.com
