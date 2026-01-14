@@ -39,6 +39,7 @@
 ||jquery.com
 ||k8s.io
 ||kubernetes.io
+||manus.im
 ||mohu.rocks
 ||mozilla.net
 ||netsarang.com
