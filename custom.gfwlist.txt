@@ -4,6 +4,12 @@
 ||anthropic.com
 ||claude.ai
 
+# Cursor & X
+||cursor.com
+||cursor.sh
+||grok.com
+||x.ai
+
 # Facebook 相关
 ||meta.com
 
@@ -21,7 +27,6 @@
 ||civitai.com
 ||clickhouse.com
 ||cloudflare.com
-||cursor.com
 ||docker.com
 ||emeditor.com
 ||gemini.google.com
@@ -66,7 +71,6 @@
 ||wikiquote.org
 ||wiktionary.org
 ||wireshark.org
-||x.ai
 ||yahoo.com
 ||yamllint.com
 ||zabbix.com
